@@ -6,4 +6,3 @@ prateek
 robin
 sumit
 manish
-kunal
