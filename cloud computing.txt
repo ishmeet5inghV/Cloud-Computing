@@ -1,0 +1,31 @@
+*******************cloud computing *********************
+
+
+Digital transpormation ->
+
+The process of using digital technologies to create new and existing business processes, culture/organization, and customer experience. to meet business and market requirements.
+
+
+# Cloud Computing ->
+
+It is the use of remote servers on the internet to store, manage, and process data rather than local servers. 
+
+# cloud Service Models ->
+
+
+Iaas - >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
